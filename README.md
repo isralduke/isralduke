@@ -2,6 +2,8 @@
 
 i design inclusive and easy to use products. i work as a UI / UX designer but i prefer to think about myself as an interactive designer who does some frontend.
 
+![Abstract design representing visual sight, human touch, and computer code, tools of an interactive designer.](https://files.mastodon.social/accounts/headers/109/241/530/431/165/040/original/01794fd95f5219cc.jpeg)
+
 ## Repos, Projects
 
 - [Pelican Design System](https://github.com/la-ots/pelican) _now at version two_
@@ -17,6 +19,7 @@ i design inclusive and easy to use products. i work as a UI / UX designer but i 
 - Semantic, accessible HTML, CSS, SCSS
 - Screen reader testing of my own work
 - Thinking through users’ cognitive loads
+- Grumbling about typefaces lacking character differentiation or more than Latin characters
 
 ## Certifications, Courses
 
