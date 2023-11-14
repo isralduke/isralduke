@@ -1,16 +1,34 @@
-### Hi there 👋
+# isral Duke
 
-<!--
-**isralduke/isralduke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i design inclusive and easy to use products. i work as a UI / UX designer but i prefer to think about myself as an interactive designer who does some frontend.
 
-Here are some ideas to get you started:
+## Repos, Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Pelican Design System](https://github.com/la-ots/pelican) _now at version two_
+- [Pelican Design System 2 at Figma Community](https://www.figma.com/community/file/1295790757134814477/pelican-2)
+- [Pelican Design System v3](https://github.com/la-ots/pelican-3) _early work in progress_
+- [Office of Technology Services (OTS) Careers](https://github.com/la-ots/ots-careers) _still in development_
+- [OTS Accessible Web Services](https://github.com/la-ots/accessible-web-services)
+- [OTS Brand Guide](https://github.com/la-ots/branding-style-guide)
+
+## Skills
+
+- Design (interaction, ui, visual, ux)
+- Semantic, accessible HTML, CSS, SCSS
+- Screen reader testing of my own work
+- Thinking through users’ cognitive loads
+
+## Certifications, Courses
+
+- [Designers’ Accessibility Curriculum](https://www.dropbox.com/scl/fi/94rmscnhne971jm7c4y2k/isral-Duke-Designers_Package-Completion-Certificate.pdf?rlkey=u9kw9lgpdn7go3rwoi22yyo4n&dl=0) by Deque University
+- [Google UX Design](https://www.coursera.org/account/accomplishments/professional-cert/YD2XXQJSTD8V?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof) by Google via Coursera
+- [Interaction Design](https://www.coursera.org/account/accomplishments/specialization/RG5C62YCCCP5?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=s12n) by UC San Diego via Coursera
+- [Practical Accessibility](https://practical-accessibility.today) by Sara Soueidan
+- [Smart Interface Design Patterns](https://smart-interface-design-patterns.com/) by Vitaly Friedman
+
+## Connections
+
+- [isral Duke’s Portfolio](https://isralduke.com)
+- [isral Duke on LinkedIn](https://linkedin.com/in/isralduke)
+- [isral Duke on Twitter](https://twitter.com/isralduke)
+- [isral Duke on Mastodon](https://mastodon.social/@isralduke)
