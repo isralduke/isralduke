@@ -6,6 +6,7 @@ i design inclusive and easy to use products. i work as a UI / UX designer but i 
 
 ## Repos, Projects
 
+- [Apple Watch Step Counter App, Duffy (free)](https://apps.apple.com/us/app/duffy-steps-complication/id1207581673)
 - [Pelican Design System](https://github.com/la-ots/pelican) _now at version two_
 - [Pelican Design System 2 at Figma Community](https://www.figma.com/community/file/1295790757134814477/pelican-2)
 - [Pelican Design System v3](https://github.com/la-ots/pelican-3) _early work in progress_
@@ -19,9 +20,15 @@ i design inclusive and easy to use products. i work as a UI / UX designer but i 
 - Semantic, accessible HTML, CSS, SCSS
 - Screen reader testing of my own work
 - Thinking through users’ cognitive loads
-- Grumbling about typefaces lacking character differentiation or more than Latin characters
+- Grumbling about typefaces which lack character differentiation
 
-## Certifications, Courses
+## Talks
+
+- [Just in Time Usability and Accessibility](https://youtu.be/UNe7NsCdfUE)
+- [Accessible, Friendly Content](https://youtu.be/zyohrLEZfys)
+- [Building Pelican Design System](https://youtu.be/ZKYufkpBG6Q)
+
+## Certifications, Completed Courses
 
 - [Designers’ Accessibility Curriculum](https://www.dropbox.com/scl/fi/94rmscnhne971jm7c4y2k/isral-Duke-Designers_Package-Completion-Certificate.pdf?rlkey=u9kw9lgpdn7go3rwoi22yyo4n&dl=0) by Deque University
 - [Google UX Design](https://www.coursera.org/account/accomplishments/professional-cert/YD2XXQJSTD8V?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof) by Google via Coursera
