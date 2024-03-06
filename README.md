@@ -18,6 +18,7 @@ i design inclusive and easy to use products. i work as a UI / UX designer but i 
 
 - Design (interaction, ui, visual, ux)
 - Semantic, accessible HTML, CSS, SCSS
+- Accessible Front End Knowledge: [CodePen Experiments](https://codepen.io/isralduke)
 - Screen reader testing of my own work
 - Thinking through users’ cognitive loads
 - Grumbling about typefaces which lack character differentiation
@@ -40,5 +41,6 @@ i design inclusive and easy to use products. i work as a UI / UX designer but i 
 
 - [isral Duke’s Portfolio](https://isralduke.com)
 - [isral Duke on LinkedIn](https://linkedin.com/in/isralduke)
+- [isral Duke’s CodePen Experiments](https://codepen.io/isralduke)
 - [isral Duke on Twitter](https://twitter.com/isralduke)
 - [isral Duke on Mastodon](https://mastodon.social/@isralduke)
