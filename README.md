@@ -37,10 +37,15 @@ i design inclusive and easy to use products. i work as a UI / UX designer but i 
 - [Practical Accessibility](https://practical-accessibility.today) by Sara Soueidan
 - [Smart Interface Design Patterns](https://smart-interface-design-patterns.com/) by Vitaly Friedman
 
-## Connections
+## Links
 
-- [isral Duke’s Portfolio](https://isralduke.com)
+- [isral Duke Portfolio](https://isralduke.com)
 - [isral Duke on LinkedIn](https://linkedin.com/in/isralduke)
-- [isral Duke’s CodePen Experiments](https://codepen.io/isralduke)
+- [isral Duke on CodePen Experiments](https://codepen.io/isralduke)
 - [isral Duke on Twitter](https://twitter.com/isralduke)
 - [isral Duke on Mastodon](https://mastodon.social/@isralduke)
+
+## Education
+
+- MS in Information Technology focus in Web Design, Southern New Hampshire University
+- BA in Graphic Design, Louisiana State University
