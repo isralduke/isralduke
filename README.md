@@ -1,6 +1,6 @@
 # isral Duke
 
-i design inclusive and easy to use products. i work as a UI / UX designer but i prefer to think about myself as an interactive designer who does some frontend.
+i design inclusive and easy to use products. i am designer who can code.
 
 ![Abstract design representing visual sight, human touch, and computer code, tools of an interactive designer.](https://files.mastodon.social/accounts/headers/109/241/530/431/165/040/original/01794fd95f5219cc.jpeg)
 
@@ -13,12 +13,13 @@ i design inclusive and easy to use products. i work as a UI / UX designer but i 
 - [Office of Technology Services (OTS) Careers](https://github.com/la-ots/ots-careers) _still in development_
 - [OTS Accessible Web Services](https://github.com/la-ots/accessible-web-services)
 - [OTS Brand Guide](https://github.com/la-ots/branding-style-guide)
+- [CodePen Experiments](https://codepen.io/isralduke)
 
 ## Skills
 
 - Design (interaction, ui, visual, ux)
 - Semantic, accessible HTML, CSS, SCSS
-- Accessible Front End Knowledge: [CodePen Experiments](https://codepen.io/isralduke)
+- Accessible Front End Knowledge
 - Screen reader testing of my own work
 - Thinking through users’ cognitive loads
 - Grumbling about typefaces which lack character differentiation
