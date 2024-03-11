@@ -4,7 +4,7 @@ i design inclusive and easy to use products. i am designer who can code.
 
 ![Abstract design representing visual sight, human touch, and computer code, tools of an interactive designer.](https://files.mastodon.social/accounts/headers/109/241/530/431/165/040/original/01794fd95f5219cc.jpeg)
 
-## Repos, Projects
+## Projects
 
 - [Apple Watch Step Counter App, Duffy (free)](https://apps.apple.com/us/app/duffy-steps-complication/id1207581673)
 - [Pelican Design System](https://github.com/la-ots/pelican) _now at version two_
