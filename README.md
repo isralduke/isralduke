@@ -1,6 +1,6 @@
 # isral Duke
 
-i design inclusive and easy to use products. i am a designer who can code.
+As a designer who can code, i design inclusive and easy to use products.
 
 ![Abstract design representing visual sight, human touch, and computer code, tools of an interactive designer.](https://files.mastodon.social/accounts/headers/109/241/530/431/165/040/original/01794fd95f5219cc.jpeg)
 
